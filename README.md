@@ -1,6 +1,6 @@
-## Copy from https://github.com/groundnuty/io-lab-docker-ci-public because of problems with travis
+## Copy from https://github.com/groundnuty/io-lab-docker-ci-public because of personal problems with travis
 
-#problem with lowercase
+#problem with lowercase one again
 
 # Docker and Travis Example
 

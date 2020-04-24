@@ -1,4 +1,4 @@
-## Copy from https://github.com/groundnuty/io-lab-docker-ci-public
+## Copy from https://github.com/groundnuty/io-lab-docker-ci-public because of problems with travis
 
 # Docker and Travis Example
 
